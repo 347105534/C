@@ -1,0 +1,18 @@
+﻿生成启动时间为 2020/11/10 22:56:33。
+     1>项目“c:\Users\柴士雄\documents\visual studio 2013\Projects\2020.11.10\2020.11.10\2020.11.10.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt maincpp.cpp
+         maincpp.cpp
+     1>c:\users\柴士雄\documents\visual studio 2013\projects\2020.11.10\2020.11.10\maincpp.cpp(144): error C2057: 应输入常量表达式
+     1>c:\users\柴士雄\documents\visual studio 2013\projects\2020.11.10\2020.11.10\maincpp.cpp(144): error C2466: 不能分配常量大小为 0 的数组
+     1>c:\users\柴士雄\documents\visual studio 2013\projects\2020.11.10\2020.11.10\maincpp.cpp(144): error C2087: “a”: 缺少下标
+     1>c:\users\柴士雄\documents\visual studio 2013\projects\2020.11.10\2020.11.10\maincpp.cpp(144): error C2133: “a”: 未知的大小
+     1>c:\users\柴士雄\documents\visual studio 2013\projects\2020.11.10\2020.11.10\maincpp.cpp(145): error C2057: 应输入常量表达式
+     1>c:\users\柴士雄\documents\visual studio 2013\projects\2020.11.10\2020.11.10\maincpp.cpp(145): error C2466: 不能分配常量大小为 0 的数组
+     1>c:\users\柴士雄\documents\visual studio 2013\projects\2020.11.10\2020.11.10\maincpp.cpp(145): error C2087: “b”: 缺少下标
+     1>c:\users\柴士雄\documents\visual studio 2013\projects\2020.11.10\2020.11.10\maincpp.cpp(145): error C2133: “b”: 未知的大小
+     1>已完成生成项目“c:\Users\柴士雄\documents\visual studio 2013\Projects\2020.11.10\2020.11.10\2020.11.10.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:34.17
